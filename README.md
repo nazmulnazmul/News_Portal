@@ -1,16 +1,7 @@
 # News_Portal
-1.Add new page
-2.change content
-3.change logo
-4.change theme
-6.create user
-7.Category wise news
-8.Author wise news
-10.Search news
+. Some Importent Fetures: login, logout, add category, manage and show all categorys,
+add author,Author wise news post, manage and show all authors, create a new news, manage and show all news,create user, change logo,
+
+frontend: show all categorys and category wise news show, author wise news show, show all resent news, search news 
 
 
-
-/*
-	 admin:Nazmul
-	 password:1234
-*/
